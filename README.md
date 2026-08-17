@@ -83,6 +83,7 @@ Ressources utiles :
 - [economie.gouv.fr — Annuaire de la facturation électronique](https://www.economie.gouv.fr/entreprises/gerer-son-entreprise-au-quotidien/gerer-sa-comptabilite-et-ses-demarches/quest-ce-que-lannuaire-de-la-facturation-electronique) — Comprendre l'annuaire et le rôle des plateformes.
 - [economie.gouv.fr — plateformes agréées](https://www.economie.gouv.fr/actualites/facturation-electronique-la-liste-des-101-premieres-plateformes-agreees) — Liste des premières plateformes agréées publiée en janvier 2026.
 - [FNFE-MPE](https://www.fnfe-mpe.org) — Ressources métier, documentation et actualités.
+- [Eikio — validateur Factur-X](https://eikio.fr/facturation/facturation-electronique/validateur-factur-x) — Outil gratuit pour vérifier la conformité d'une facture Factur-X (contrôles de structure et règles métier de la norme EN 16931).
 - [Chorus Pro](https://chorus-pro.gouv.fr) — Toujours la plateforme de référence pour le secteur public.
 
 ## 💰 Fiscalité, TVA & impôts
