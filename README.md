@@ -67,6 +67,7 @@ Contributions bienvenues. Voir [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [Chorus Pro](https://chorus-pro.gouv.fr) — Plateforme de facturation à destination du secteur public.
 - [Eikio — facturation](https://eikio.fr) — Devis, factures, suivi des paiements, export.
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — Solution open source de facturation complète.
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) — Générateur gratuit de factures et reçus PDF dans le navigateur, sans compte. [Licence commerciale EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-auto-entrepreneur-france-v1) : logo personnalisé, 6 modèles, traitement par lots CSV en local.
 
 ## ⚡ Facturation électronique
 
